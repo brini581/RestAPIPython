@@ -1,9 +1,18 @@
-The API has multiple endpoints:
+The API has multiple endpoints, including:
 
-registerStudent: Register student in Sqlite Database. <br />
-getStudent: Check if the student is registered. <br />
-saveMoney: Save money that would allow someone to print the document <br />
-getBalance: check for balance <br />
-uploadFile:Upload a pdf file you are intending to print <br />
+registerStudent: Registers a student in the Sqlite Database. <br />
+getStudent: Checks if a student is registered. <br />
+saveMoney: Allows someone to save money for printing a document. <br />
+getBalance: Checks the balance. <br />
+uploadFile: Uploads a PDF file intended for printing. <br />
 
-NOTE:This is an inspiration from Linkoping University printing system.
+NOTE:(Inspired by the Linkoping University printing system)
+
+
+
+
+
+
+
+
+
